@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/health_hackathon/static/css/main.438e5df9.css",
-    "main.js": "/health_hackathon/static/js/main.e265a631.js",
+    "main.js": "/health_hackathon/static/js/main.10d804c7.js",
     "static/js/787.a935753b.chunk.js": "/health_hackathon/static/js/787.a935753b.chunk.js",
     "static/media/pngwing.com.png": "/health_hackathon/static/media/pngwing.com.fb97dc8fcf4e5e72c0d7.png",
     "static/media/bg2.jpg": "/health_hackathon/static/media/bg2.6dd2f7b9680f21329804.jpg",
@@ -12,11 +12,11 @@
     "static/media/ava2.png": "/health_hackathon/static/media/ava2.68cdc4513e601d28a382.png",
     "index.html": "/health_hackathon/index.html",
     "main.438e5df9.css.map": "/health_hackathon/static/css/main.438e5df9.css.map",
-    "main.e265a631.js.map": "/health_hackathon/static/js/main.e265a631.js.map",
+    "main.10d804c7.js.map": "/health_hackathon/static/js/main.10d804c7.js.map",
     "787.a935753b.chunk.js.map": "/health_hackathon/static/js/787.a935753b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.438e5df9.css",
-    "static/js/main.e265a631.js"
+    "static/js/main.10d804c7.js"
   ]
 }
